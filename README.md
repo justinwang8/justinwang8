@@ -11,16 +11,15 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🚀 Featured Projects  
-- **[PriceSense](https://github.com/username/pricesense)** — A real-time price comparison app with a React frontend, FastAPI backend, and PostgreSQL database.  
-- **[Uplift](https://github.com/username/uplift)** — A React Native mobile app for mood tracking, daily journaling, and anonymous encouragement.  
-- **[ETL Pipeline](https://github.com/username/kafka-etl-pipeline)** — Built a Kafka-based data pipeline processing 1M+ daily sensor events into Cassandra.
-
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- **[COVOID](https://github.com/justinwang8/COVOID)** — A React and Node.js web app that helps users find the safest destinations nearby by ranking locations based on proximity to COVID-19 testing centers. 
+- **[Uplift](https://github.com/justinwang8/SudokuSolver)** — A Python-based computer vision app that solves Sudoku puzzles by scanning images using OpenCV and EasyOCR, displaying results via a PyQt5 GUI.
 
 📫 Reach me at: [jwang3234@gmail.com](mailto:jwang3234@gmail.com)  
-🌐 Portfolio: [justinwang.dev](https://justinwang.dev)  
-💼 LinkedIn: [linkedin.com/in/justinwang](https://linkedin.com/in/justinwang)
+🌐 Portfolio: [justinwang8.github.io](https://justinwang8.github.io)  
+💼 LinkedIn: [linkedin.com/in/justinwang8](https://linkedin.com/in/justinwang8)
 
