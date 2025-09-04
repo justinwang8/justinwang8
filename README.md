@@ -17,7 +17,7 @@
 
 ### 🚀 Featured Projects  
 - **[COVOID](https://github.com/justinwang8/COVOID)** — A React and Node.js web app that helps users find the safest destinations nearby by ranking locations based on proximity to COVID-19 testing centers. 
-- **[Uplift](https://github.com/justinwang8/SudokuSolver)** — A Python-based computer vision app that solves Sudoku puzzles by scanning images using OpenCV and EasyOCR, displaying results via a PyQt5 GUI.
+- **[SudokuSolver](https://github.com/justinwang8/SudokuSolver)** — A Python-based computer vision app that solves Sudoku puzzles by scanning images using OpenCV and EasyOCR, displaying results via a PyQt5 GUI.
 
 📫 Reach me at: [jwang3234@gmail.com](mailto:jwang3234@gmail.com)  
 🌐 Portfolio: [justinwang8.github.io](https://justinwang8.github.io)  
